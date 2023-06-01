@@ -1,4 +1,4 @@
-### Hi there, I'm Mathankumar 👋
+### Hi there 👋, I'm Mathankumar 
 A passionate individual from diverse roots, embarking on an exciting software development journey with boundless enthusiasm.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
